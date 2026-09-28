@@ -11,7 +11,7 @@ A simple hardware demonstrator to let the user experience classical search in un
 
 ## Device overview
 
-![Annotated overview of the Grover Demonstrator](device-buttons.png)
+![Annotated overview of the Grover Demonstrator](button-overview.png)
 
 | Control | Description |
 |---|---|
